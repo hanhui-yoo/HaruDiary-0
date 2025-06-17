@@ -53,15 +53,23 @@
 원하는 날짜를 선택할 수 있습니다.
 
 ![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 17](https://github.com/user-attachments/assets/baa1d06f-d1b7-4b77-93a5-60b5234bbfeb)
-일기작성을 누르면 뜨는 화면입니다. 하단에서 오늘의 감정을 선택할 수 있고 하단의 버튼을 통해 사진도 추가할 수 있습니다.
+날짜 선택 후 일기작성을 누르면 뜨는 화면입니다. 상단에 선택한 날짜를 볼 수 있습니다. 그 아래에 일기를 작성할 수 있습니다. 하단에서 오늘의 감정을 선택할 수 있고 하단의 버튼을 통해 사진도 추가할 수 있습니다.
 
 ![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 25](https://github.com/user-attachments/assets/6e5a50e1-3931-4e48-8b97-9e4afdb7523c)
 ![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 30](https://github.com/user-attachments/assets/c21ab81e-4c3e-408f-9f58-aed52c3220ee)
-감정을 선택하지 않고 일기를 쓰면 감정을 선택해달라는 경고문구가 뜹니다. 감정을 선택하면 경고문구는 사라지고 오늘의 감정이 나타납니다.
+감정을 선택하지 않고 일기를 쓰면 감정을 선택해달라는 경고문구가 뜹니다. 감정을 선택하면 경고문구는 사라지고 오늘의 감정이 나타납니다. 작성한 일기와 감정 이모지는 자동 저장됩니다.
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 35]
-(https://github.com/user-attachments/assets/02f08758-e561-4b63-b8d5-87a87932091e)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 35](https://github.com/user-attachments/assets/f11146b9-3094-418e-9616-311522c49cb6)
 사진 추가하기 버튼을 누르면 카메라로 찍는것과 앨범에서 선택 중 고를수 있습니다.
 
 ![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 36 08](https://github.com/user-attachments/assets/6f0f8254-a533-4213-9aa5-0d3468cc03d3)
+앨범에서 선택을 눌렀을때의 화면입니다
 
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 47](https://github.com/user-attachments/assets/6643506c-6097-46ae-80bf-cb3222792b4f)
+사진을 선택하면 일기 작성 화면에 생성됩니다.
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 59](https://github.com/user-attachments/assets/b89b75ec-baec-4817-ae20-525ecd2b36be)
+선택한 감정 이모지의 날짜가 올라가있습니다
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 12 04](https://github.com/user-attachments/assets/d951759c-bbb4-4c86-b362-7ae7c39f3495)
+일기 작성 화면을 벗어났다 다시 들어와도 저장되어있습니다.
