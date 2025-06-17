@@ -45,6 +45,24 @@
 
 ---
 ## 앱 실행 화면
-앱 실행 화면은 img파일을 통해 확인할 수 있습니다.
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 12 04](https://github.com/user-attachments/assets/c39e5305-6ebb-412c-a0db-58917c5ab08f)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 12 04](https://github.com/user-attachments/assets/c39e5305-6ebb-412c-a0db-58917c5ab08f)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 59](https://github.com/user-attachments/assets/7563a855-6e9a-434c-9f75-bc922cfd491e)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 59](https://github.com/user-attachments/assets/7563a855-6e9a-434c-9f75-bc922cfd491e)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 47](https://github.com/user-attachments/assets/92852845-c08f-4d13-87f1-64a97ea830b0)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 47](https://github.com/user-attachments/assets/92852845-c08f-4d13-87f1-64a97ea830b0)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 35](https://github.com/user-attachments/assets/cec3ce68-02dd-4acf-b674-6fb23546ed76)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 35](https://github.com/user-attachments/assets/cec3ce68-02dd-4acf-b674-6fb23546ed76)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 30](https://github.com/user-attachments/assets/c7e63560-16c5-4139-9d90-270de37138f4)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 30](https://github.com/user-attachments/assets/c7e63560-16c5-4139-9d90-270de37138f4)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 25](https://github.com/user-attachments/assets/97fcb7f8-53e8-471c-965c-d6f0011a2c81)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 25](https://github.com/user-attachments/assets/97fcb7f8-53e8-471c-965c-d6f0011a2c81)
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 17](https://github.com/user-attachments/assets/dad36ce1-a3ce-4824-8661-b8b50c982888)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 17](https://github.com/user-attachments/assets/dad36ce1-a3ce-4824-8661-b8b50c982888)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 13](https://github.com/user-attachments/assets/3fa82e45-7303-42b8-9640-df15c47c0146)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 13](https://github.com/user-attachments/assets/3fa82e45-7303-42b8-9640-df15c47c0146)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 10 55](https://github.com/user-attachments/assets/37911193-265c-4b6f-9a54-ea0fc70f96df)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 10 55](https://github.com/user-attachments/assets/37911193-265c-4b6f-9a54-ea0fc70f96df)
 
 
