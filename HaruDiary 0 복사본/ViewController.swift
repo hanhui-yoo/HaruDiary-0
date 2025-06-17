@@ -5,12 +5,14 @@
 //  Created by 유한희 on 5/27/25.
 //
 
+import UIKit
 
 class ViewController: UIViewController {
     
     var selectedDate: Date?
 
     @IBOutlet var datePicker: UIDatePicker!
+    @IBOutlet weak var emotionSummaryLabel: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
