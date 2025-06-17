@@ -47,19 +47,21 @@
 ## 앱 실행 화면
 
 ![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 10 55](https://github.com/user-attachments/assets/bfa4e302-9726-44ea-ab06-85afef224e6d)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 10 55](https://github.com/user-attachments/assets/bfa4e302-9726-44ea-ab06-85afef224e6d)
 앱을 실행시키면 나타나는 첫 화면입니다.
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 13](https://github.com/user-attachments/assets/8376789b-4294-4475-b8f4-bda3a9f0b488)
 ![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 13](https://github.com/user-attachments/assets/8376789b-4294-4475-b8f4-bda3a9f0b488)
 원하는 날짜를 선택할 수 있습니다.
 
 ![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 17](https://github.com/user-attachments/assets/baa1d06f-d1b7-4b77-93a5-60b5234bbfeb)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 17](https://github.com/user-attachments/assets/baa1d06f-d1b7-4b77-93a5-60b5234bbfeb)
 일기작성을 누르면 뜨는 화면입니다. 하단에서 오늘의 감정을 선택할 수 있고 하단의 버튼을 통해 사진도 추가할 수 있습니다.
 
 ![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 25](https://github.com/user-attachments/assets/6e5a50e1-3931-4e48-8b97-9e4afdb7523c)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 25](https://github.com/user-attachments/assets/6e5a50e1-3931-4e48-8b97-9e4afdb7523c)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 30](https://github.com/user-attachments/assets/c21ab81e-4c3e-408f-9f58-aed52c3220ee)
 ![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 30](https://github.com/user-attachments/assets/c21ab81e-4c3e-408f-9f58-aed52c3220ee)
 감정을 선택하지 않고 일기를 쓰면 감정을 선택해달라는 경고문구가 뜹니다. 감정을 선택하면 경고문구는 사라지고 오늘의 감정이 나타납니다.
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 35]
+(https://github.com/user-attachments/assets/02f08758-e561-4b63-b8d5-87a87932091e)
+사진 추가하기 버튼을 누르면 카메라로 찍는것과 앨범에서 선택 중 고를수 있습니다.
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 36 08](https://github.com/user-attachments/assets/6f0f8254-a533-4213-9aa5-0d3468cc03d3)
+
