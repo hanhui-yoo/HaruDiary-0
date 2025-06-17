@@ -45,24 +45,21 @@
 
 ---
 ## 앱 실행 화면
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 12 04](https://github.com/user-attachments/assets/c39e5305-6ebb-412c-a0db-58917c5ab08f)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 12 04](https://github.com/user-attachments/assets/c39e5305-6ebb-412c-a0db-58917c5ab08f)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 59](https://github.com/user-attachments/assets/7563a855-6e9a-434c-9f75-bc922cfd491e)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 59](https://github.com/user-attachments/assets/7563a855-6e9a-434c-9f75-bc922cfd491e)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 47](https://github.com/user-attachments/assets/92852845-c08f-4d13-87f1-64a97ea830b0)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 47](https://github.com/user-attachments/assets/92852845-c08f-4d13-87f1-64a97ea830b0)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 35](https://github.com/user-attachments/assets/cec3ce68-02dd-4acf-b674-6fb23546ed76)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 35](https://github.com/user-attachments/assets/cec3ce68-02dd-4acf-b674-6fb23546ed76)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 30](https://github.com/user-attachments/assets/c7e63560-16c5-4139-9d90-270de37138f4)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 30](https://github.com/user-attachments/assets/c7e63560-16c5-4139-9d90-270de37138f4)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 25](https://github.com/user-attachments/assets/97fcb7f8-53e8-471c-965c-d6f0011a2c81)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 25](https://github.com/user-attachments/assets/97fcb7f8-53e8-471c-965c-d6f0011a2c81)
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 17](https://github.com/user-attachments/assets/dad36ce1-a3ce-4824-8661-b8b50c982888)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 17](https://github.com/user-attachments/assets/dad36ce1-a3ce-4824-8661-b8b50c982888)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 13](https://github.com/user-attachments/assets/3fa82e45-7303-42b8-9640-df15c47c0146)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 13](https://github.com/user-attachments/assets/3fa82e45-7303-42b8-9640-df15c47c0146)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 10 55](https://github.com/user-attachments/assets/37911193-265c-4b6f-9a54-ea0fc70f96df)
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 10 55](https://github.com/user-attachments/assets/37911193-265c-4b6f-9a54-ea0fc70f96df)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 10 55](https://github.com/user-attachments/assets/bfa4e302-9726-44ea-ab06-85afef224e6d)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 10 55](https://github.com/user-attachments/assets/bfa4e302-9726-44ea-ab06-85afef224e6d)
+앱을 실행시키면 나타나는 첫 화면입니다.
 
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 13](https://github.com/user-attachments/assets/8376789b-4294-4475-b8f4-bda3a9f0b488)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 13](https://github.com/user-attachments/assets/8376789b-4294-4475-b8f4-bda3a9f0b488)
+원하는 날짜를 선택할 수 있습니다.
 
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 17](https://github.com/user-attachments/assets/baa1d06f-d1b7-4b77-93a5-60b5234bbfeb)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 17](https://github.com/user-attachments/assets/baa1d06f-d1b7-4b77-93a5-60b5234bbfeb)
+일기작성을 누르면 뜨는 화면입니다. 하단에서 오늘의 감정을 선택할 수 있고 하단의 버튼을 통해 사진도 추가할 수 있습니다.
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 25](https://github.com/user-attachments/assets/6e5a50e1-3931-4e48-8b97-9e4afdb7523c)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 25](https://github.com/user-attachments/assets/6e5a50e1-3931-4e48-8b97-9e4afdb7523c)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 30](https://github.com/user-attachments/assets/c21ab81e-4c3e-408f-9f58-aed52c3220ee)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-17 at 14 11 30](https://github.com/user-attachments/assets/c21ab81e-4c3e-408f-9f58-aed52c3220ee)
+감정을 선택하지 않고 일기를 쓰면 감정을 선택해달라는 경고문구가 뜹니다. 감정을 선택하면 경고문구는 사라지고 오늘의 감정이 나타납니다.
